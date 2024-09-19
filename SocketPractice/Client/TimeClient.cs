@@ -32,6 +32,7 @@ public class TimeClient
 
             clientSocket.Shutdown(SocketShutdown.Both);
             clientSocket.Close();
+
         }
         catch (Exception ex)
         {

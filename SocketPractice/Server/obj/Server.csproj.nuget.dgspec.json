@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\murad\\OneDrive\\Desktop\\Network Programming\\Network Programming\\SocketPractice\\Server\\Server.csproj": {}
+    "C:\\Users\\murad\\OneDrive\\Desktop\\Network Programming\\SocketPractice\\Server\\Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\murad\\OneDrive\\Desktop\\Network Programming\\Network Programming\\SocketPractice\\Server\\Server.csproj": {
+    "C:\\Users\\murad\\OneDrive\\Desktop\\Network Programming\\SocketPractice\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\murad\\OneDrive\\Desktop\\Network Programming\\Network Programming\\SocketPractice\\Server\\Server.csproj",
+        "projectUniqueName": "C:\\Users\\murad\\OneDrive\\Desktop\\Network Programming\\SocketPractice\\Server\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "C:\\Users\\murad\\OneDrive\\Desktop\\Network Programming\\Network Programming\\SocketPractice\\Server\\Server.csproj",
+        "projectPath": "C:\\Users\\murad\\OneDrive\\Desktop\\Network Programming\\SocketPractice\\Server\\Server.csproj",
         "packagesPath": "C:\\Users\\murad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\murad\\OneDrive\\Desktop\\Network Programming\\Network Programming\\SocketPractice\\Server\\obj\\",
+        "outputPath": "C:\\Users\\murad\\OneDrive\\Desktop\\Network Programming\\SocketPractice\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\murad\\AppData\\Roaming\\NuGet\\NuGet.Config",

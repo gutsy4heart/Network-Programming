@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\murad\\OneDrive\\Desktop\\Network Programming\\Network Programming\\SocketPractice\\Client\\Client.csproj",
+      "projectUniqueName": "C:\\Users\\murad\\OneDrive\\Desktop\\Network Programming\\SocketPractice\\Client\\Client.csproj",
       "projectName": "Client",
-      "projectPath": "C:\\Users\\murad\\OneDrive\\Desktop\\Network Programming\\Network Programming\\SocketPractice\\Client\\Client.csproj",
+      "projectPath": "C:\\Users\\murad\\OneDrive\\Desktop\\Network Programming\\SocketPractice\\Client\\Client.csproj",
       "packagesPath": "C:\\Users\\murad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\murad\\OneDrive\\Desktop\\Network Programming\\Network Programming\\SocketPractice\\Client\\obj\\",
+      "outputPath": "C:\\Users\\murad\\OneDrive\\Desktop\\Network Programming\\SocketPractice\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\murad\\AppData\\Roaming\\NuGet\\NuGet.Config",
