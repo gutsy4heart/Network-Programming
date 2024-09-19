@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\murad\\OneDrive\\Desktop\\Code\\Network Programming\\SocketPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA122BCA-3F06-4FE8-B4EB-09AB9D54042C}|Client\\Client.csproj|c:\\users\\murad\\onedrive\\desktop\\code\\network programming\\socketpractice\\client\\timeclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA122BCA-3F06-4FE8-B4EB-09AB9D54042C}|Client\\Client.csproj|solutionrelative:client\\timeclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37D8FAE-68C2-4DE8-B9FC-8EE76237EB02}|Server\\Server.csproj|c:\\users\\murad\\onedrive\\desktop\\code\\network programming\\socketpractice\\server\\timeserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37D8FAE-68C2-4DE8-B9FC-8EE76237EB02}|Server\\Server.csproj|solutionrelative:server\\timeserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimeClient.cs",
+              "DocumentMoniker": "C:\\Users\\murad\\OneDrive\\Desktop\\Code\\Network Programming\\SocketPractice\\Client\\TimeClient.cs",
+              "RelativeDocumentMoniker": "Client\\TimeClient.cs",
+              "ToolTip": "C:\\Users\\murad\\OneDrive\\Desktop\\Code\\Network Programming\\SocketPractice\\Client\\TimeClient.cs",
+              "RelativeToolTip": "Client\\TimeClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T17:12:48.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TimeServer.cs",
+              "DocumentMoniker": "C:\\Users\\murad\\OneDrive\\Desktop\\Code\\Network Programming\\SocketPractice\\Server\\TimeServer.cs",
+              "RelativeDocumentMoniker": "Server\\TimeServer.cs",
+              "ToolTip": "C:\\Users\\murad\\OneDrive\\Desktop\\Code\\Network Programming\\SocketPractice\\Server\\TimeServer.cs",
+              "RelativeToolTip": "Server\\TimeServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T17:12:38.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
