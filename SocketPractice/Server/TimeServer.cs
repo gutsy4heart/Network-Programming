@@ -21,6 +21,7 @@ public class TimeServer
             server.Listen(10);
             Console.WriteLine("Сервер запущен. Ожидание подключения клиентов...");
 
+            
             while (true)
             {
                 Socket clientSocket = server.Accept();
