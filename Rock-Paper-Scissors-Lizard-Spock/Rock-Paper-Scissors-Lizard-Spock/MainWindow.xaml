@@ -1,0 +1,22 @@
+﻿<Window x:Class="Rock_Paper_Scissors_Lizard_Spock.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Rock_Paper_Scissors_Lizard_Spock"
+        mc:Ignorable="d"
+       Title="Rock-Paper-Scissors-Lizard-Spock" Height="350" Width="525">
+    <Grid>
+        <ComboBox x:Name="MoveSelection" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="10,10,0,0">
+            <ComboBoxItem>Rock</ComboBoxItem>
+            <ComboBoxItem>Paper</ComboBoxItem>
+            <ComboBoxItem>Scissors</ComboBoxItem>
+            <ComboBoxItem>Lizard</ComboBoxItem>
+            <ComboBoxItem>Spock</ComboBoxItem>
+        </ComboBox>
+        <Button Content="Make Move" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="10,40,0,0" />
+        <Button Content="Offer Draw" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="10,80,0,0"/>
+        <Button Content="Concede" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="10,120,0,0"/>
+        <TextBox x:Name="GameStatus" HorizontalAlignment="Left" VerticalAlignment="Top" Width="300" Height="100" Margin="150,10,0,0" IsReadOnly="True"/>
+    </Grid>
+</Window>
