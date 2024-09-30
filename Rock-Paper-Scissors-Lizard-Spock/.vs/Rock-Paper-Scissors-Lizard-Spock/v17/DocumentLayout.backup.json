@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\murad\\OneDrive\\Desktop\\Network Programming\\Rock-Paper-Scissors-Lizard-Spock\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A42BED5F-4E15-46EB-80B3-B0E6C32BD53F}|Client\\Client.csproj|c:\\users\\murad\\onedrive\\desktop\\network programming\\rock-paper-scissors-lizard-spock\\client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A42BED5F-4E15-46EB-80B3-B0E6C32BD53F}|Client\\Client.csproj|solutionrelative:client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A42BED5F-4E15-46EB-80B3-B0E6C32BD53F}|Client\\Client.csproj|c:\\users\\murad\\onedrive\\desktop\\network programming\\rock-paper-scissors-lizard-spock\\client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42BED5F-4E15-46EB-80B3-B0E6C32BD53F}|Client\\Client.csproj|solutionrelative:client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16B68D35-3BDD-4771-B337-C1ADE5726A03}|Server\\Server.csproj|c:\\users\\murad\\onedrive\\desktop\\network programming\\rock-paper-scissors-lizard-spock\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16B68D35-3BDD-4771-B337-C1ADE5726A03}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A42BED5F-4E15-46EB-80B3-B0E6C32BD53F}|Client\\Client.csproj|c:\\users\\murad\\onedrive\\desktop\\network programming\\rock-paper-scissors-lizard-spock\\client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A42BED5F-4E15-46EB-80B3-B0E6C32BD53F}|Client\\Client.csproj|solutionrelative:client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A42BED5F-4E15-46EB-80B3-B0E6C32BD53F}|Client\\Client.csproj|c:\\users\\murad\\onedrive\\desktop\\network programming\\rock-paper-scissors-lizard-spock\\client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A42BED5F-4E15-46EB-80B3-B0E6C32BD53F}|Client\\Client.csproj|solutionrelative:client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\murad\\OneDrive\\Desktop\\Network Programming\\Rock-Paper-Scissors-Lizard-Spock\\Client\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Client\\MainWindow.xaml",
@@ -42,13 +42,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\murad\\OneDrive\\Desktop\\Network Programming\\Rock-Paper-Scissors-Lizard-Spock\\Client\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Client\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\murad\\OneDrive\\Desktop\\Network Programming\\Rock-Paper-Scissors-Lizard-Spock\\Client\\MainWindow.xaml.cs",
               "RelativeToolTip": "Client\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwDkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T07:14:00.371Z",
               "EditorCaption": ""
@@ -61,7 +61,7 @@
               "RelativeDocumentMoniker": "Server\\Program.cs",
               "ToolTip": "C:\\Users\\murad\\OneDrive\\Desktop\\Network Programming\\Rock-Paper-Scissors-Lizard-Spock\\Server\\Program.cs",
               "RelativeToolTip": "Server\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswAcAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T07:11:44.725Z",
               "EditorCaption": ""

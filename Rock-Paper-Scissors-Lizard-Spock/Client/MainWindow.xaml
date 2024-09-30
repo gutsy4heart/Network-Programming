@@ -5,19 +5,18 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Client"
         mc:Ignorable="d"
-        Title="MainWindow" Height="220" Width="470">
+        Title="Rock-Paper-Scissors-Lizard-Spock" Height="220" Width="470">
     <Grid>
-        
-    <ComboBox x:Name="MoveSelection" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="10,10,0,0">
-        <ComboBoxItem>Rock</ComboBoxItem>
-        <ComboBoxItem>Paper</ComboBoxItem>
-        <ComboBoxItem>Scissors</ComboBoxItem>
-        <ComboBoxItem>Lizard</ComboBoxItem>
-        <ComboBoxItem>Spock</ComboBoxItem>
-    </ComboBox>
-    <Button Content="Make Move" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="10,40,0,0" Click="OnMakeMove"/>
-    <Button Content="Offer Draw" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="10,80,0,0" Click="OnOfferDraw"/>
-    <Button Content="Concede" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="10,120,0,0" Click="OnConcede"/>
-    <TextBox x:Name="GameStatus" HorizontalAlignment="Left" VerticalAlignment="Top" Width="300" Height="100" Margin="150,10,0,0" IsReadOnly="True"/>
+        <ComboBox x:Name="MoveSelection" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="10,10,0,0">
+            <ComboBoxItem>Rock</ComboBoxItem>
+            <ComboBoxItem>Paper</ComboBoxItem>
+            <ComboBoxItem>Scissors</ComboBoxItem>
+            <ComboBoxItem>Lizard</ComboBoxItem>
+            <ComboBoxItem>Spock</ComboBoxItem>
+        </ComboBox>
+        <Button Content="Make Move" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="10,40,0,0" Click="OnMakeMove"/>
+        <Button Content="Offer Draw" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="10,80,0,0" Click="OnOfferDraw"/>
+        <Button Content="Concede" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="10,120,0,0" Click="OnConcede"/>
+        <TextBox x:Name="GameStatus" HorizontalAlignment="Left" VerticalAlignment="Top" Width="300" Height="100" Margin="150,10,0,0" IsReadOnly="True" TextWrapping="Wrap"/>
     </Grid>
 </Window>
